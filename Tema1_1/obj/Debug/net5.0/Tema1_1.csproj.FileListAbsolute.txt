@@ -1,0 +1,16 @@
+C:\Users\DeaRain\source\repos\Tema1_1\Tema1_1\bin\Debug\net5.0\Tema1_1.exe
+C:\Users\DeaRain\source\repos\Tema1_1\Tema1_1\bin\Debug\net5.0\Tema1_1.deps.json
+C:\Users\DeaRain\source\repos\Tema1_1\Tema1_1\bin\Debug\net5.0\Tema1_1.runtimeconfig.json
+C:\Users\DeaRain\source\repos\Tema1_1\Tema1_1\bin\Debug\net5.0\Tema1_1.runtimeconfig.dev.json
+C:\Users\DeaRain\source\repos\Tema1_1\Tema1_1\bin\Debug\net5.0\Tema1_1.dll
+C:\Users\DeaRain\source\repos\Tema1_1\Tema1_1\bin\Debug\net5.0\ref\Tema1_1.dll
+C:\Users\DeaRain\source\repos\Tema1_1\Tema1_1\bin\Debug\net5.0\Tema1_1.pdb
+C:\Users\DeaRain\source\repos\Tema1_1\Tema1_1\obj\Debug\net5.0\Tema1_1.csproj.AssemblyReference.cache
+C:\Users\DeaRain\source\repos\Tema1_1\Tema1_1\obj\Debug\net5.0\Tema1_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DeaRain\source\repos\Tema1_1\Tema1_1\obj\Debug\net5.0\Tema1_1.AssemblyInfoInputs.cache
+C:\Users\DeaRain\source\repos\Tema1_1\Tema1_1\obj\Debug\net5.0\Tema1_1.AssemblyInfo.cs
+C:\Users\DeaRain\source\repos\Tema1_1\Tema1_1\obj\Debug\net5.0\Tema1_1.csproj.CoreCompileInputs.cache
+C:\Users\DeaRain\source\repos\Tema1_1\Tema1_1\obj\Debug\net5.0\Tema1_1.dll
+C:\Users\DeaRain\source\repos\Tema1_1\Tema1_1\obj\Debug\net5.0\ref\Tema1_1.dll
+C:\Users\DeaRain\source\repos\Tema1_1\Tema1_1\obj\Debug\net5.0\Tema1_1.pdb
+C:\Users\DeaRain\source\repos\Tema1_1\Tema1_1\obj\Debug\net5.0\Tema1_1.genruntimeconfig.cache
