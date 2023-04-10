@@ -1,0 +1,11 @@
+D:\Freelance\ThreadsLabs\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\Freelance\ThreadsLabs\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\Freelance\ThreadsLabs\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\Freelance\ThreadsLabs\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+D:\Freelance\ThreadsLabs\Lab2\Lab2\obj\Debug\Lab2.csproj.SuggestedBindingRedirects.cache
+D:\Freelance\ThreadsLabs\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+D:\Freelance\ThreadsLabs\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+D:\Freelance\ThreadsLabs\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+D:\Freelance\ThreadsLabs\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+D:\Freelance\ThreadsLabs\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\Freelance\ThreadsLabs\Lab2\Lab2\obj\Debug\Lab2.pdb
